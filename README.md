@@ -1,3 +1,7 @@
+This is a UI for recording device audio in a Next.js app using RecordRTC (WebRTC). 
+
+Used create-next-app but the tailwind seems pretty broken
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
